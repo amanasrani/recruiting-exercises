@@ -1,7 +1,7 @@
 # recruiting-exercises
 
 Files:
-1. InventoryAllocator.py : Inventory allocator function, that takes order and wearehouses as input.
+1. InventoryAllocator.py : Inventory allocator function, that takes order and warehouses as input.
 2. test.py : Test cases for 'InventoryAllocator.py'
 
 Execution:
